@@ -1,0 +1,16 @@
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\ConnectToDB.deps.json
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\ConnectToDB.runtimeconfig.json
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\ConnectToDB.runtimeconfig.dev.json
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\ConnectToDB.dll
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\ConnectToDB.pdb
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.csproj.AssemblyReference.cache
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.AssemblyInfoInputs.cache
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.AssemblyInfo.cs
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.csproj.CoreCompileInputs.cache
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.csproj.CopyComplete
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.dll
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.pdb
+C:\Users\rezer\Desktop\Eleks\MicrosoftIdentityTest\ConnectToDB\obj\Debug\netcoreapp3.1\ConnectToDB.genruntimeconfig.cache
